@@ -1,4 +1,7 @@
-Aplikasi Antrian Reservasi menggunakan php sama sepertinya yang digunakan oleh perusahaan perbankan
+#Aplikasi Antrian Reservasi menggunakan php sama sepertinya yang digunakan oleh perusahaan perbankan
+- fitur memanggil dengan suara
+- otomatis terupdate di database
+jika ingin dikembangkan seperti pencetakan nomor antrian bisa juga dihubungkan ke printer langsung 
 
 
 Menu Dashboard
